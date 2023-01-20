@@ -9,7 +9,7 @@
   </div>
   <hr>
   <b><i>:man_technologist: About Me: </i></b><br><br>
-  - :telescope: I’m looking for work as a Junior Software Engineer / Junior Software Developer.<br>
+  - :telescope: I’m looking to work as a Junior Software Engineer / Junior Software Developer.<br>
   - :zap: In my free time, I solve problems on HackerRank/LeetCode and read tech articles.
   <hr>
   :hammer_and_wrench: <b><i>Languages and Tools :</i></b>
