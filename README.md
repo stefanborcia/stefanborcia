@@ -4,7 +4,11 @@
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/b-stefan">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><br>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/stefan_borcia">
+    <img src="https://github.com/hackerrank-badges/hackerrank-badges.github.io/blob/master/images/hackerrank_logo.png" width="120" height="30" alt="LinkedIn Badge"/>
+    
   </a>
   </div>
   <hr>
@@ -13,6 +17,8 @@
   - :zap: In my free time, I solve problems on HackerRank/LeetCode and read tech articles.
   <hr>
   :hammer_and_wrench: <b><i>Languages and Tools :</i></b>
+  <br>
+  <br>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="DotNet" alt="DotNet" width="40" height="40"/>&nbsp;
