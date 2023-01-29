@@ -4,16 +4,16 @@
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/b-stefan">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.hackerrank.com/stefan_borcia">
-    <img src="https://github.com/hackerrank-badges/hackerrank-badges.github.io/blob/master/images/hackerrank_logo.png" width="120" height="30" alt="LinkedIn Badge"/>
+    <img src="https://github.com/hackerrank-badges/hackerrank-badges.github.io/blob/master/images/hackerrank_logo.png" width="120" height="30" alt="HackerRank"/>
     
   </a>
   </div>
   <hr>
   <b><i>:man_technologist: About Me: </i></b><br><br>
-  - :telescope: I’m looking to work as a Junior Software Engineer / Junior Software Developer.<br>
+  - :telescope: I’m looking to work as a Junior Software Developer / Junior Software Tester.<br>
   - :zap: In my free time, I solve problems on HackerRank/LeetCode and read tech articles.
   <hr>
   :hammer_and_wrench: <b><i>Languages and Tools :</i></b>
