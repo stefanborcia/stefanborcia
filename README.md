@@ -1,20 +1,20 @@
-<div id="header" align="center">
-  <b>Hey, I'm Stefan and I love <i>coding</i> and <i>debugging.</i></b><br>
+
+<div id="badges" align="center" >
+<a href="https://www.linkedin.com/in/b-stefan/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg"  width="21px"/></a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/borciastefaniulian"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/stefan_borcia">
+   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" width="21px"  alt="HackerRank"/></a>  <br/>
+    <b>Hey, I'm Stefan and I love <i>coding</i> and <i>debugging.</i></b><br>
+  </div>
+  <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/b-stefan">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.hackerrank.com/stefan_borcia">
-    <img src="https://github.com/hackerrank-badges/hackerrank-badges.github.io/blob/master/images/hackerrank_logo.png" width="120" height="30" alt="HackerRank"/>
-    
-  </a>
-  </div>
   <hr>
   <b><i>:man_technologist: About Me: </i></b><br><br>
-  - :telescope: I’m looking to work as a Junior Software Developer / Junior Software Tester.<br>
-  - :zap: In my free time, I solve problems on HackerRank/LeetCode and read tech articles.
+  I am a hard-working and driven individual who isn’t afraid to face a
+challenge.
+Desire to learn new technologies and enhance legacy applications
+I’m passionate about my work and I know how to get the job done.
   <hr>
   :hammer_and_wrench: <b><i>Languages and Tools :</i></b>
   <br>
@@ -29,6 +29,30 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   </div>
   
+  <h2> My Projects</h2>
+<b><i>Guess Number in Console Application</i></b> <br/>
+
+  
+
+
+
+https://user-images.githubusercontent.com/98278002/220192105-3dc26db9-f02d-4fab-ad5b-064dd20c8507.mp4
+
+<br/><b><i>Calculator in Windows Form</i></b><br/>
+
+
+https://user-images.githubusercontent.com/98278002/220192348-7461516e-9124-49b8-b702-61ea192534c9.mp4
+
+<br/><b><i>HangMan Game - Console Application</i></b><br/>
+
+
+https://user-images.githubusercontent.com/98278002/220192418-59197540-58a5-49ac-9581-56d33734687a.mp4
+
+<br/><b><i>Slot Machine Game - Console Application</i></b><br/>
+
+
+https://user-images.githubusercontent.com/98278002/220192531-7f6bdd78-9c2a-47a0-92f7-260ff3421a14.mp4
 
