@@ -1,9 +1,11 @@
 
 <div id="badges" align="center" >
-<a href="https://www.linkedin.com/in/b-stefan/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg"  width="21px"/></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/borciastefaniulian"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/b-stefan/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg"  width="23px"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/borciastefaniulian"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="23px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/stefan_borcia">
-   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" width="21px"  alt="HackerRank"/></a>  <br/>
+   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" width="23px"  alt="HackerRank"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/BorciaStefan">
+    <img src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" width="23px" alt="Twitter"/></a><br/>
     <b>Hey, I'm Stefan and I love <i>coding</i> and <i>debugging.</i></b><br>
   </div>
   <div id="header" align="center">
