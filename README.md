@@ -33,7 +33,18 @@ I’m passionate about my work and I know how to get the job done.
   </div>
   
   <h2> My Projects</h2>
-<b><i>Guess Number in Console Application</i></b> <br/>
+  
+<b><i>Shop Laptops - Console Application using Lambda and LINQ </i></b> <br/>
+  
+
+https://user-images.githubusercontent.com/98278002/221353263-c1355250-d294-4e1a-9fdb-611fff1a0628.mp4
+
+
+  
+  
+  
+  
+<br/><b><i>Guess Number in Console Application</i></b> <br/>
 
   
 
