@@ -42,9 +42,13 @@ I’m passionate about my work and I know how to get the job done.
 https://user-images.githubusercontent.com/98278002/221353263-c1355250-d294-4e1a-9fdb-611fff1a0628.mp4
 
 
+<br/><b><i>Solid Principle's in Console Application</i></b> <br/>  
   
   
-  
+
+https://user-images.githubusercontent.com/98278002/221432374-115cf274-045e-4c9b-b4c0-d94a798820ef.mp4
+
+
   
 <br/><b><i>Guess Number in Console Application</i></b> <br/>
 
