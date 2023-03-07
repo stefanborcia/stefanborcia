@@ -35,8 +35,14 @@ I’m passionate about my work and I know how to get the job done.
   </div>
   
   <h2> My Projects</h2>
-  
-<b><i>Shop Laptops - Console Application using Lambda and LINQ </i></b> <br/>
+<b><i>ToDo List - Windows Form - CRUD</i></b> <br/>
+
+
+
+https://user-images.githubusercontent.com/98278002/223529733-e28f94fb-79f7-477b-ac68-26b16d887617.mp4
+
+
+<br/><b><i>Shop Laptops - Console Application using Lambda and LINQ </i></b> <br/>
   
 
 https://user-images.githubusercontent.com/98278002/221353263-c1355250-d294-4e1a-9fdb-611fff1a0628.mp4
