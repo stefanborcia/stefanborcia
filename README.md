@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
   <hr>
-  <b><i>:man_technologist: About Me: </i></b><br><br>
+  <b><i>About Me: </i></b><br><br>
   I am a hard-working and driven individual who isn’t afraid to face a
 challenge.
 Desire to learn new technologies and enhance legacy applications
